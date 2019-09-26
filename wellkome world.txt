@@ -1,1 +1,1 @@
-welkome 777
+print 777
